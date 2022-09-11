@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="black fadeout.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="black tween0000" x="0" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0001" x="265" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0002" x="530" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0003" x="795" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0004" x="1060" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0005" x="1325" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0006" x="1590" y="0" width="265" height="265"/>
+	<SubTexture name="black tween0007" x="0" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0008" x="265" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0009" x="530" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0010" x="795" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0011" x="1060" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0012" x="1325" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0013" x="1590" y="265" width="265" height="265"/>
+	<SubTexture name="black tween0014" x="0" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0015" x="265" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0016" x="530" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0017" x="795" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0018" x="1060" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0019" x="1325" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0020" x="1590" y="530" width="265" height="265"/>
+	<SubTexture name="black tween0021" x="0" y="795" width="265" height="265"/>
+	<SubTexture name="black tween0022" x="265" y="795" width="265" height="265"/>
+	<SubTexture name="black tween0023" x="530" y="795" width="265" height="265"/>
+	<SubTexture name="black tween0024" x="795" y="795" width="265" height="265"/>
+	<SubTexture name="black tween0025" x="795" y="795" width="265" height="265"/>
+	<SubTexture name="black tween0026" x="795" y="795" width="265" height="265"/>
+</TextureAtlas>
