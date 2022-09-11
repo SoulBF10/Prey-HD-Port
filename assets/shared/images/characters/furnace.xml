@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="furnace.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="furndown0000" x="14" y="14" width="1176" height="673" frameX="0" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0001" x="14" y="14" width="1176" height="673" frameX="0" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0002" x="1200" y="14" width="1122" height="673" frameX="-58" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0003" x="1200" y="14" width="1122" height="673" frameX="-58" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0004" x="2332" y="14" width="1166" height="673" frameX="-16" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0005" x="2332" y="14" width="1166" height="673" frameX="-16" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0006" x="3508" y="14" width="1182" height="673"/>
+	<SubTexture name="furndown0007" x="3508" y="14" width="1182" height="673"/>
+	<SubTexture name="furndown0008" x="4700" y="14" width="1124" height="673" frameX="-58" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furndown0009" x="4700" y="14" width="1124" height="673" frameX="-58" frameY="0" frameWidth="1182" frameHeight="673"/>
+	<SubTexture name="furnidle0000" x="5834" y="14" width="1216" height="672"/>
+	<SubTexture name="furnidle0001" x="5834" y="14" width="1216" height="672"/>
+	<SubTexture name="furnidle0002" x="14" y="697" width="1127" height="672" frameX="-89" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0003" x="14" y="697" width="1127" height="672" frameX="-89" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0004" x="1151" y="697" width="1200" height="672" frameX="-16" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0005" x="1151" y="697" width="1200" height="672" frameX="-16" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0006" x="2361" y="697" width="1216" height="672"/>
+	<SubTexture name="furnidle0007" x="2361" y="697" width="1216" height="672"/>
+	<SubTexture name="furnidle0008" x="3587" y="697" width="1127" height="672" frameX="-89" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0009" x="3587" y="697" width="1127" height="672" frameX="-89" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0010" x="4724" y="697" width="1200" height="672" frameX="-16" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0011" x="4724" y="697" width="1200" height="672" frameX="-16" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0012" x="5934" y="697" width="1216" height="672"/>
+	<SubTexture name="furnidle0013" x="5934" y="697" width="1216" height="672"/>
+	<SubTexture name="furnidle0014" x="14" y="1379" width="1127" height="672" frameX="-89" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0015" x="14" y="1379" width="1127" height="672" frameX="-89" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0016" x="1151" y="1379" width="1200" height="672" frameX="-16" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnidle0017" x="1151" y="1379" width="1200" height="672" frameX="-16" frameY="0" frameWidth="1216" frameHeight="672"/>
+	<SubTexture name="furnleft0000" x="2361" y="1379" width="1035" height="681" frameX="0" frameY="-1" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0001" x="2361" y="1379" width="1035" height="681" frameX="0" frameY="-1" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0002" x="3406" y="1379" width="943" height="682" frameX="-100" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0003" x="3406" y="1379" width="943" height="682" frameX="-100" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0004" x="4359" y="1379" width="1012" height="682" frameX="-31" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0005" x="4359" y="1379" width="1012" height="682" frameX="-31" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0006" x="5381" y="1379" width="1028" height="682" frameX="-15" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0007" x="5381" y="1379" width="1028" height="682" frameX="-15" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0008" x="6419" y="1379" width="940" height="682" frameX="-103" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnleft0009" x="6419" y="1379" width="940" height="682" frameX="-103" frameY="0" frameWidth="1048" frameHeight="682"/>
+	<SubTexture name="furnright0000" x="14" y="2071" width="1214" height="673" frameX="-18" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0001" x="14" y="2071" width="1214" height="673" frameX="-18" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0002" x="1238" y="2071" width="1168" height="673" frameX="-51" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0003" x="1238" y="2071" width="1168" height="673" frameX="-51" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0004" x="2416" y="2071" width="1210" height="673" frameX="-16" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0005" x="2416" y="2071" width="1210" height="673" frameX="-16" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0006" x="3636" y="2071" width="1226" height="673" frameX="0" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0007" x="3636" y="2071" width="1226" height="673" frameX="0" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0008" x="4872" y="2071" width="1175" height="673" frameX="-51" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnright0009" x="4872" y="2071" width="1175" height="673" frameX="-51" frameY="0" frameWidth="1232" frameHeight="673"/>
+	<SubTexture name="furnup0000" x="6057" y="2071" width="1236" height="802" frameX="0" frameY="0" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0001" x="6057" y="2071" width="1236" height="802" frameX="0" frameY="0" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0002" x="14" y="2883" width="1143" height="789" frameX="-93" frameY="-10" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0003" x="14" y="2883" width="1143" height="789" frameX="-93" frameY="-10" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0004" x="1167" y="2883" width="1219" height="784" frameX="-17" frameY="-12" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0005" x="1167" y="2883" width="1219" height="784" frameX="-17" frameY="-12" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0006" x="2396" y="2883" width="1021" height="784" frameX="0" frameY="-12" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0007" x="2396" y="2883" width="1021" height="784" frameX="0" frameY="-12" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0008" x="3427" y="2883" width="928" height="784" frameX="-93" frameY="-12" frameWidth="1236" frameHeight="813"/>
+	<SubTexture name="furnup0009" x="3427" y="2883" width="928" height="784" frameX="-93" frameY="-12" frameWidth="1236" frameHeight="813"/>
+</TextureAtlas>
