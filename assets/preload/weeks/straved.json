@@ -1,0 +1,25 @@
+{
+	"storyName": "I Love That Hedgehog",
+ "difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "But",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Prey",
+			"furnace",
+			[
+				115,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Im Starving"
+}
