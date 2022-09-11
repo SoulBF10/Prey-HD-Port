@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1383,
+				-99
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eggidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1400,
+				0
+			],
+			"anim": "dialoug",
+			"fps": 24,
+			"name": "eggdia",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boiled egg",
+	"position": [
+		-200,
+		-100
+	],
+	"healthicon": "starved-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		36,
+		0
+	],
+	"camera_position": [
+		170,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

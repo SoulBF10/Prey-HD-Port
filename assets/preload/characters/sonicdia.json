@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-240,
+				-440
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonicidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-246,
+				-438
+			],
+			"anim": "dia",
+			"fps": 24,
+			"name": "sonic1dia",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicdia",
+	"position": [
+		-90,
+		-130
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		108,
+		88,
+		216
+	],
+	"camera_position": [
+		-530,
+		580
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
